@@ -2,7 +2,7 @@
 
 This is a repo containing all the projects I created while learning Angular.
 
-You can clone the repository or download any individual project and run the following command in the project directory and Node installed in your system
+You can clone the repository or download any individual project and run the following command in the project directory(with Node.js installed in your system)
 
 `npm install`
 
