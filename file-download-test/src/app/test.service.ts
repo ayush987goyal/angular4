@@ -7,6 +7,6 @@ export class TestService {
     constructor(private http: Http) {}
 
     getExpress(){
-        return this.http.get('http://localhost:3000/');
+        return this.http.get('http://localhost:3000/rep');
     }
 }
